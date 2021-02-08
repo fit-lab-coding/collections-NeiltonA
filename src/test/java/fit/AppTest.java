@@ -12,8 +12,7 @@ import java.util.Map;
 
 import org.junit.Test;
 
-import fit.core.AttendanceHelper;
-import fit.core.ListUtils;
+
 
 /**
  * Unit test for simple App.
